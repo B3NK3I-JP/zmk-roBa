@@ -70,7 +70,7 @@
             bindings = <
 &kp Q                &kp L           &kp U               &kp COMMA                    &kp PERIOD                                                 &kp F        &kp W              &lt 5 R              &kp Y            &kp P
 &mt LEFT_META MINUS  &mt LEFT_ALT I  &mt LEFT_CONTROL A  &mt LEFT_SHIFT O             &kp E        &kp LS(LG(S))                  &kp MINUS      &kp K        &mt RIGHT_SHIFT T  &mt RIGHT_CONTROL N  &mt RIGHT_ALT S  &mt RIGHT_META H
-&kp Z                &kp X           &kp C               &kp V                        &kp SEMI     &kp COLON                      &kp SEMICOLON  &kp G        &kp D              &kp M                &kp J            &kp B
+&kp Z                &kp X           &kp C               &kp V                        &kp SEMI     &trans                         &trans         &kp G        &kp D              &kp M                &kp J            &kp B
 &kp LCTRL            &kp LEFT_WIN    &kp LEFT_ALT        &lt_to_layer_0 6 LANGUAGE_1  &lt 2 SPACE  &lt_to_layer_0 3 LANGUAGE_2    &kp BACKSPACE  &lt 1 ENTER                                                           &kp DEL
             >;
 
